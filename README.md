@@ -1,4 +1,4 @@
-[![Build Status](http://3.87.204.83:8080/buildStatus/icon?job=fibonachi)](http://3.87.204.83:8080/job/fibonachi/)
+[![Build Status](http://44.211.225.119:8080/buildStatus/icon?job=fibonachi)](http://44.211.225.119:8080/job/fibonachi/)
 
 
 # jenkins_fibonachi
